@@ -7,3 +7,4 @@ algorithm practice 2020.2.19~
 https://www.algospot.com/judge/problem/read/PICNIC<br>
 문제 2) 게임판 덮기(Boardcover)<br>
 https://www.algospot.com/judge/problem/read/BOARDCOVER
+### Week2 (분할 정복)
