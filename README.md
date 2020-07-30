@@ -12,3 +12,6 @@ https://www.algospot.com/judge/problem/read/BOARDCOVER
 ### Week3 (동적 계획법(DP))
 문제 2) 합친 LIS(JLIS)<br>
 https://www.algospot.com/judge/problem/read/JLIS
+### Week4 (선형 자료 구조)
+문제 1) 조세푸스<br>
+https://www.algospot.com/judge/problem/read/JOSEPHUS<br>
