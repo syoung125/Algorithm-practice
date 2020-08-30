@@ -19,3 +19,8 @@ https://www.algospot.com/judge/problem/read/JOSEPHUS<br>
 https://www.algospot.com/judge/problem/read/BRACKETS2<br>
 문제 3) 외계 신호 분석<br>
 https://algospot.com/judge/problem/read/ITES
+### Week5 (트리의 구현과 순회 & 이진 검색 트리)
+문제 1) 트리 순회 순서 변경<br>
+https://www.algospot.com/judge/problem/read/TRAVERSAL<br>
+문제 2) 요새<br>
+https://www.algospot.com/judge/problem/read/FORTRESS<br>
